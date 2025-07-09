@@ -36,11 +36,11 @@ This project is licensed under the [Apache License](LICENSE). You are free to us
 
 ## Problem stats
 
-Total: 647
+Total: 649
 
 Easy (E): 118
 
-Medium (M): 450
+Medium (M): 452
 
 Hard (H): 79
 
@@ -202,4 +202,4 @@ Hard (H): 79
 
 1338 (M), 475 (M), 901 (M), 2192 (M), 990 (M), 218 (H), 813 (M), 1992 (M), 2385 (M), 3159 (E)
 
-1400 (M), 2166 (M), 2786 (M)
+1400 (M), 2166 (M), 2786 (M), 2870 (M), 1381 (M)
